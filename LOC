@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+<head><BODY bgcolor= #1a1a1a>
+  <meta charset="UTF-8">
+  <title>Descarga</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding-top: 100px;
+    }
+    a {
+      padding: 12px 24px;
+      background-color: #28a745;
+      color: white;
+      text-decoration: none;
+      font-size: 18px;
+      border-radius: 8px;
+    }
+    a:hover {
+      background-color: #218838;
+    }
+  </style>
+</head>
+<body>
+  <FONT  face= Tahoma color=WHITE><h2>Haz clic para descargar la carpeta</h2></FONT>
+  <a href="C:\Users\ASUS\Documents\Code\C1.zip" download>Descargar Carpeta</a>
+</body>
+</html>
